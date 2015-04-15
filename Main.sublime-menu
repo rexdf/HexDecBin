@@ -3,6 +3,7 @@
         "children": [
             {
                 "caption": "Hex-Dec-Bin",
+                "id": "hex_dec_bin",
                 "children": [
                     {
                         "command": "dec_to_hex"
